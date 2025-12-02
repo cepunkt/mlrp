@@ -14,7 +14,7 @@ I spent the last three months stress-testing this architecture in a "clean room"
 
 ## What's Inside
 
-### 1. The Universal Narrator Stacks
+### The Universal Narrator Stacks
 Most "Context Dumps" fail because they mix physics, politics, and personal goals into one messy text block. This architecture uses **Modular Constraint Layers**:
 * **Layer 1: Universe** (Physics, Magic Systems, Metaphysics)
 * **Layer 2: World** (Geography, Geopolitics)
@@ -22,14 +22,6 @@ Most "Context Dumps" fail because they mix physics, politics, and personal goals
 
 These are "drop-in" modules. They handle the environment consequences so your character card doesn't have to.
 * *Included Stacks:* Heritalis (Fantasy), Ostria-Thornwick (Political), Ikizen (Cultivation/Fantasy).
-
-### 2. Production-Validated Character Cards
-These are not standard "Waifu" cards. They are **System Agents** built using V2/V3 Positioning Specifications.
-* **Quantity:** 19 Characters across 5 Scenarios.
-* **Optimization:** Tuned to maintain "Kouhai" (Student/Subordinate) or "Expert" constraint topologies, specifically engineered to crush the "As an AI language model" refusal ridge.
-
-### 3. The Methodology
-Documentation on how to use **Context Positioning** to carve deep narrative valleys. This isn't just "Lore"; it's drift prevention engineering.
 
 ## Related Repositories
 This is the **Product** layer. If you want to understand the *Engineering* or *Theory* behind it:
